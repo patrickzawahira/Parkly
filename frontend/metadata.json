@@ -1,0 +1,8 @@
+{
+  "name": "Smart Parking Assistant",
+  "description": "Find, Reserve, and Navigate to available parking spaces with AI assistance.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
